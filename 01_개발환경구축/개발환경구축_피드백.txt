@@ -1,0 +1,5 @@
+관리자 권한으로 Windows Terminal 실행
+> Terminal이 설치 안되어 있어서 PowerShell로 실행
+
+WSL 커널 다운로드 및 업데이트
+> Intel/AMD CPU에서도 잘 설치 됨.
